@@ -1,0 +1,13 @@
+D:\XakaTonProj\PolugraphProj\PolygraphProj\bin\Debug\PolygraphProj.exe.config
+D:\XakaTonProj\PolugraphProj\PolygraphProj\bin\Debug\PolygraphProj.exe
+D:\XakaTonProj\PolugraphProj\PolygraphProj\bin\Debug\PolygraphProj.pdb
+D:\XakaTonProj\PolugraphProj\PolygraphProj\obj\Debug\PolygraphProj.csproj.AssemblyReference.cache
+D:\XakaTonProj\PolugraphProj\PolygraphProj\obj\Debug\PolygraphProj.Form1.resources
+D:\XakaTonProj\PolugraphProj\PolygraphProj\obj\Debug\PolygraphProj.Properties.Resources.resources
+D:\XakaTonProj\PolugraphProj\PolygraphProj\obj\Debug\PolygraphProj.csproj.GenerateResource.cache
+D:\XakaTonProj\PolugraphProj\PolygraphProj\obj\Debug\PolygraphProj.csproj.CoreCompileInputs.cache
+D:\XakaTonProj\PolugraphProj\PolygraphProj\obj\Debug\PolygraphProj.exe
+D:\XakaTonProj\PolugraphProj\PolygraphProj\obj\Debug\PolygraphProj.pdb
+D:\XakaTonProj\PolugraphProj\PolygraphProj\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\XakaTonProj\PolugraphProj\PolygraphProj\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\XakaTonProj\PolugraphProj\PolygraphProj\obj\Debug\PolygraphProj.csproj.CopyComplete
